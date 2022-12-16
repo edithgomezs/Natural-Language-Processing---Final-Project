@@ -11,4 +11,4 @@ Each one of these problems will provide a better understanding of how the users 
 Our approaches will be based on just natural language processing, with the objective of seeing if we would be able to replicate the scores based on text reviews.
 
 For each task there is a sepparate notebook that runs on the same dataset.
-For Taks 1 the input file is a csv sample of the original dataset.
+For Task 1 the input file is a csv sample of the original dataset.
