@@ -1,4 +1,8 @@
-# Natural-Language-Processing---Final-Project
+# Natural-Language-Processing-Final-Project
+
+Topic: Yelp Restaurant Reviews: Analyzing and Predicting the Funny, Cool and Useful Review Scores
+
+Dataset: https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset?select=yelp_academic_dataset_business.json
 
 The focus of this project is to analyze, understand and predict the useful, cool, and funny review scores present on each restaurant review of the Yelp Dataset. 
 To tackle this problem, we propose the following tasks:
